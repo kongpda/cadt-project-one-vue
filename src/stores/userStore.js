@@ -1,5 +1,9 @@
 import { defineStore } from 'pinia';
 
+/**
+ * Please refer to the docs/stores/userStore.md file for more information
+ * */
+
 // Fake data
 const fakeUsers = [
     {
